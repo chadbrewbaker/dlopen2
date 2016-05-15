@@ -13,6 +13,8 @@ binutils/bfd
 
 linux https://github.com/torvalds/linux/search?utf8=✓&q=bfd
 
+http://www.sco.com/developers/gabi/2001-04-24/contents.html
+
 Goal 1) Loading "pure" object files with mostly just a memcpy
 
 Goal 2) Loading of object files asking for least side effects neccisary
