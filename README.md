@@ -22,3 +22,12 @@ Goal 2) Loading of object files asking for least side effects neccisary
 Goal 3) OS level database of object files. Think AWS Lambda but at the OS level.
 
 Stretch goal) Fixing existing parse errors on object file formats that are security issues.
+
+
+Refs for ASM level and pure functions to benchmark.
+
+http://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf
+
+https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming
+
+http://stackoverflow.com/questions/746171/best-algorithm-for-bit-reversal-from-msb-lsb-to-lsb-msb-in-c
