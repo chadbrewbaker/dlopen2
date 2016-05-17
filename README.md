@@ -31,3 +31,6 @@ http://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0
 https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming
 
 http://stackoverflow.com/questions/746171/best-algorithm-for-bit-reversal-from-msb-lsb-to-lsb-msb-in-c
+
+Muppet crazy ELF stuffing. Good for data structure micro lambdas? Perhaps a safety level on how bad the ELF is stuffed? (That really sounds wrong).
+http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html
